@@ -42,4 +42,4 @@
 
 Результаты тестов будут сохранены в файле fibonacci-jmh.json.
 
-[JMH Visualizer] ([Screenshot 2024-03-21 104134.png](https://github.com/kolchenkoav/fibonacci-benchmark/blob/main/Screenshot%202024-03-21%20104134.png)https://github.com/kolchenkoav/fibonacci-benchmark/blob/main/Screenshot%202024-03-21%20104134.png)
+[JMH Visualizer] (https://github.com/kolchenkoav/fibonacci-benchmark/blob/main/Screenshot%202024-03-21%20104134.png)
